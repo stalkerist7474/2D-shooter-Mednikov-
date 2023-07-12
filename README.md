@@ -1,2 +1,3 @@
-# 2D-shooter-Mednikov-
+# 2D-shooter
+
  
